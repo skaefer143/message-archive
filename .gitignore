@@ -1,12 +1,17 @@
 # Default ignored files
 /shelf/
 /.idea/workspace.xml
+*.DS_Store
 # Datasource local storage ignored files
 /dataSources/
 /dataSources.local.xml
 # Editor-based HTTP Client requests
 /httpRequests/
 
+# Project Ignored Files
 .idea/
 .env
 loveletterarchive/loveletterarchive/settings/local.py
+
+# Python Ignored Files
+*__pycache__
