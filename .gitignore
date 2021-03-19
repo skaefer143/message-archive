@@ -12,6 +12,7 @@
 .idea/
 .env
 loveletterarchive/loveletterarchive/settings/local.py
+/message_backup_files/
 
 # Python Ignored Files
 *__pycache__
